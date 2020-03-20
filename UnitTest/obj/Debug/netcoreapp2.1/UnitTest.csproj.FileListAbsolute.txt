@@ -1,0 +1,17 @@
+C:\Users\Paul\source\repos\Hello_world\UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Paul\source\repos\Hello_world\UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Paul\source\repos\Hello_world\UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Paul\source\repos\Hello_world\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.deps.json
+C:\Users\Paul\source\repos\Hello_world\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.json
+C:\Users\Paul\source\repos\Hello_world\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.dev.json
+C:\Users\Paul\source\repos\Hello_world\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.dll
+C:\Users\Paul\source\repos\Hello_world\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.pdb
+C:\Users\Paul\source\repos\Hello_world\UnitTest\bin\Debug\netcoreapp2.1\Hello_world.dll
+C:\Users\Paul\source\repos\Hello_world\UnitTest\bin\Debug\netcoreapp2.1\Hello_world.pdb
+C:\Users\Paul\source\repos\Hello_world\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\Hello_world\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Hello_world\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfoInputs.cache
+C:\Users\Paul\source\repos\Hello_world\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfo.cs
+C:\Users\Paul\source\repos\Hello_world\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CopyComplete
+C:\Users\Paul\source\repos\Hello_world\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.dll
+C:\Users\Paul\source\repos\Hello_world\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.pdb

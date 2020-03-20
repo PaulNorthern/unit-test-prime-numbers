@@ -1,0 +1,10 @@
+C:\Users\Paul\source\repos\Hello_world\Graphic\bin\Release\Graphic.exe.config
+C:\Users\Paul\source\repos\Hello_world\Graphic\bin\Release\Graphic.exe
+C:\Users\Paul\source\repos\Hello_world\Graphic\bin\Release\Graphic.pdb
+C:\Users\Paul\source\repos\Hello_world\Graphic\obj\Release\Graphic.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\Hello_world\Graphic\obj\Release\Graphic.Form1.resources
+C:\Users\Paul\source\repos\Hello_world\Graphic\obj\Release\Graphic.Properties.Resources.resources
+C:\Users\Paul\source\repos\Hello_world\Graphic\obj\Release\Graphic.csproj.GenerateResource.cache
+C:\Users\Paul\source\repos\Hello_world\Graphic\obj\Release\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Hello_world\Graphic\obj\Release\Graphic.exe
+C:\Users\Paul\source\repos\Hello_world\Graphic\obj\Release\Graphic.pdb
